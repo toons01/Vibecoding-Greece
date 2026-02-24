@@ -56,7 +56,7 @@ _Τα έργα από τα μέλη της κοινότητάς μας θα πα
 
 ### Web development
 
-### [Codebase] (https://github.com/teokarts/cloud-codebase)
+### [Codebase](https://github.com/teokarts/cloud-codebase)
 
 **Συγγραφέας**: Thodoris Kartsiotis / teokarts
 **Περιγραφή**: Οργάνωση code snippets. Κατηγορίες ανά γλώσσα προγραμματισμού, ανά project, grouping, favorites
