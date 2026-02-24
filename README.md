@@ -54,7 +54,7 @@ _Τα έργα από τα μέλη της κοινότητάς μας θα πα
 
 ---
 
-### Web development
+### 📁 Κατηγορία: Web development
 
 ### [Codebase](https://github.com/teokarts/cloud-codebase)
 
@@ -70,19 +70,19 @@ _Τα έργα από τα μέλη της κοινότητάς μας θα πα
 **Τεχνολογίες**: React, Express, Node.js, LiquidJS
 **Κατάσταση**: Σε Εξέλιξη
 
-### Mobile development
+### 📁 Κατηγορία: Mobile development
 
 _Σύντομα..._
 
-### Backend/APIs
+### 📁 Κατηγορία: Backend/APIs
 
 _Σύντομα..._
 
-### Data science/ML
+### 📁 Κατηγορία: Data science/ML
 
 _Σύντομα..._
 
-### DevOps/Tools
+### 📁 Κατηγορία: DevOps/Tools
 
 ### [DomainsReseller MCP Server](https://github.com/Webhosting4U/Domain-Names-MCP-Server)
 **Συγγραφέας**: Webhosting4U  
@@ -90,7 +90,7 @@ _Σύντομα..._
 **Τεχνολογίες**: TypeScript, Cloudflare Workers, MCP (Model Context Protocol), Streamable HTTP, Zod  
 **Κατάσταση**: Ενεργό
 
-### Άλλα
+### 📁 Κατηγορία: Άλλα
 
 ### [leo - AI workflow handler](https://github.com/nikan/leo-releases)
 
